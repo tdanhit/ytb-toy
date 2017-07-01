@@ -1,0 +1,192 @@
+C:\lib\ffprobe -v error -select_streams v:0 -show_entries stream=duration -of default=noprint_wrappers=1:nokey=1 D:\xampp\htdocs\ytb-tool/files/Tp2fhJBlvzY.mp4 2>&1 
+592
+Array
+C:\lib\ffprobe -v error -select_streams v:0 -show_entries stream=duration -of default=noprint_wrappers=1:nokey=1 D:\xampp\htdocs\ytb-tool/files/_affkHceSj4.mp4 2>&1 
+592
+Array
+C:\lib\ffprobe -v error -select_streams v:0 -show_entries stream=duration -of default=noprint_wrappers=1:nokey=1 D:\xampp\htdocs\ytb-tool/files/Tp2fhJBlvzY_render.mp4 2>&1 
+582
+Array
+C:\lib\ffprobe -v error -select_streams v:0 -show_entries stream=duration -of default=noprint_wrappers=1:nokey=1 D:\xampp\htdocs\ytb-tool/files/_affkHceSj4_render.mp4 2>&1 
+582
+Array
+C:\lib\ffprobe -v error -select_streams v:0 -show_entries stream=duration -of default=noprint_wrappers=1:nokey=1 D:\xampp\htdocs\ytb-tool/files/Tp2fhJBlvzY.mp4 2>&1 
+592
+C:\lib\ffmpeg -y -i "D:\xampp\htdocs\ytb-tool/files/Tp2fhJBlvzY.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:10 -to 0:9:52 -c:v copy  "D:\xampp\htdocs\ytb-tool/files/Tp2fhJBlvzY_render.mp4" 2>&1
+Array
+C:\lib\ffprobe -v error -select_streams v:0 -show_entries stream=duration -of default=noprint_wrappers=1:nokey=1 D:\xampp\htdocs\ytb-tool/files/_affkHceSj4.mp4 2>&1 
+592
+C:\lib\ffmpeg -y -i "D:\xampp\htdocs\ytb-tool/files/_affkHceSj4.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:10 -to 0:9:52 -c:v copy  "D:\xampp\htdocs\ytb-tool/files/_affkHceSj4_render.mp4" 2>&1
+Array
+C:\lib\ffprobe -v error -select_streams v:0 -show_entries stream=duration -of default=noprint_wrappers=1:nokey=1 D:\xampp\htdocs\ytb-tool/files/Tp2fhJBlvzY.mp4 2>&1 
+592
+592
+0
+9
+52
+C:\lib\ffmpeg -y -i "D:\xampp\htdocs\ytb-tool/files/Tp2fhJBlvzY.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:10 -to 00:09:52 -c:v copy  "D:\xampp\htdocs\ytb-tool/files/Tp2fhJBlvzY_render.mp4" 2>&1
+Array
+C:\lib\ffprobe -v error -select_streams v:0 -show_entries stream=duration -of default=noprint_wrappers=1:nokey=1 D:\xampp\htdocs\ytb-tool/files/_affkHceSj4.mp4 2>&1 
+592
+592
+0
+9
+52
+C:\lib\ffmpeg -y -i "D:\xampp\htdocs\ytb-tool/files/_affkHceSj4.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:10 -to 00:09:52 -c:v copy  "D:\xampp\htdocs\ytb-tool/files/_affkHceSj4_render.mp4" 2>&1
+Array
+C:\lib\ffprobe -v error -select_streams v:0 -show_entries stream=duration -of default=noprint_wrappers=1:nokey=1 D:\xampp\htdocs\ytb-tool/files/Tp2fhJBlvzY_render.mp4 2>&1 
+572
+572
+0
+9
+32
+C:\lib\ffmpeg -y -i "D:\xampp\htdocs\ytb-tool/files/Tp2fhJBlvzY_render.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:10 -to 00:09:32 -c:v copy  "D:\xampp\htdocs\ytb-tool/files/Tp2fhJBlvzY_render_render.mp4" 2>&1
+Array
+C:\lib\ffprobe -v error -select_streams v:0 -show_entries stream=duration -of default=noprint_wrappers=1:nokey=1 D:\xampp\htdocs\ytb-tool/files/_affkHceSj4_render.mp4 2>&1 
+120
+120
+0
+2
+0
+C:\lib\ffmpeg -y -i "D:\xampp\htdocs\ytb-tool/files/_affkHceSj4_render.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:10 -to 00:02:00 -c:v copy  "D:\xampp\htdocs\ytb-tool/files/_affkHceSj4_render_render.mp4" 2>&1
+Array
+C:\lib\ffprobe -v error -select_streams v:0 -show_entries stream=duration -of default=noprint_wrappers=1:nokey=1 D:\xampp\htdocs\ytb-tool/files/AgemK0TeUqc.mp4 2>&1 
+183
+183
+0
+3
+3
+C:\lib\ffmpeg -y -i "D:\xampp\htdocs\ytb-tool/files/AgemK0TeUqc.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:12 -to 00:03:03 -c:v copy  "D:\xampp\htdocs\ytb-tool/files/AgemK0TeUqc_render.mp4" 2>&1
+Array
+C:\lib\ffprobe -v error -select_streams v:0 -show_entries stream=duration -of default=noprint_wrappers=1:nokey=1 D:\xampp\htdocs\ytb-tool/files/EQfmc_UZdEc.mp4 2>&1 
+178
+178
+0
+2
+58
+C:\lib\ffmpeg -y -i "D:\xampp\htdocs\ytb-tool/files/EQfmc_UZdEc.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:12 -to 00:02:58 -c:v copy  "D:\xampp\htdocs\ytb-tool/files/EQfmc_UZdEc_render.mp4" 2>&1
+Array
+C:\lib\ffprobe -v error -select_streams v:0 -show_entries stream=duration -of default=noprint_wrappers=1:nokey=1 D:\xampp\htdocs\ytb-tool/files/_affkHceSj4.mp4 2>&1 
+128
+128
+0
+2
+8
+C:\lib\ffmpeg -y -i "D:\xampp\htdocs\ytb-tool/files/_affkHceSj4.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:12 -to 00:02:08 -c:v copy  "D:\xampp\htdocs\ytb-tool/files/_affkHceSj4_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/KrolvTbDRxY.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/KrolvTbDRxY_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/KrolvTbDRxY.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/KrolvTbDRxY_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/OKvhcy_xeFI.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/OKvhcy_xeFI_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/OKvhcy_xeFI.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/OKvhcy_xeFI_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/KrolvTbDRxY.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/KrolvTbDRxY_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/KrolvTbDRxY.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/KrolvTbDRxY_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/OKvhcy_xeFI.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/OKvhcy_xeFI_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/OKvhcy_xeFI.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/OKvhcy_xeFI_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/OKvhcy_xeFI.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/OKvhcy_xeFI_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/OKvhcy_xeFI.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/OKvhcy_xeFI_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/OKvhcy_xeFI.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/OKvhcy_xeFI_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/OKvhcy_xeFI.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/OKvhcy_xeFI_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/CtprmMe8-JM.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/CtprmMe8-JM_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/CtprmMe8-JM.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/CtprmMe8-JM_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/CtprmMe8-JM.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/CtprmMe8-JM_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/CtprmMe8-JM.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/CtprmMe8-JM_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/CtprmMe8-JM.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/CtprmMe8-JM_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/CtprmMe8-JM.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/CtprmMe8-JM_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/CtprmMe8-JM.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/CtprmMe8-JM_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/CtprmMe8-JM.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/CtprmMe8-JM_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/3e8ACiU70Es_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/uJwY5Zzf4k8.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/uJwY5Zzf4k8_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/uJwY5Zzf4k8.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/uJwY5Zzf4k8_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/uJwY5Zzf4k8.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/uJwY5Zzf4k8_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/uJwY5Zzf4k8.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/uJwY5Zzf4k8_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/Cry6FpRIXtw.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/Cry6FpRIXtw_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/Cry6FpRIXtw.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/Cry6FpRIXtw_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/uJwY5Zzf4k8.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/uJwY5Zzf4k8_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/uJwY5Zzf4k8.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/uJwY5Zzf4k8_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/18aINwFX1hc.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/18aINwFX1hc_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/18aINwFX1hc.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/18aINwFX1hc_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/CEr4jzNETgM.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/CEr4jzNETgM_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/CEr4jzNETgM.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/CEr4jzNETgM_render.mp4" 2>&1
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/_cLahgOaCTY.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/_cLahgOaCTY_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/_cLahgOaCTY.mp4"  -map_metadata 0 -preset superfast    -c:a copy  "C:\xampp\htdocs\ytb-tool/files/_cLahgOaCTY_render.mp4" 2>&1
+C:\lib\ffprobe -v error -select_streams v:0 -show_entries stream=duration -of default=noprint_wrappers=1:nokey=1 C:\xampp\htdocs\ytb-tool/files/18aINwFX1hc.mp4 2>&1 
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/18aINwFX1hc.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:01 -to 0-1:0-1:0-1 -c:v copy  "C:\xampp\htdocs\ytb-tool/files/18aINwFX1hc_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/18aINwFX1hc.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:01 -to 0-1:0-1:0-1 -c:v copy  "C:\xampp\htdocs\ytb-tool/files/18aINwFX1hc_render.mp4" 2>&1
+C:\lib\ffprobe -v error -select_streams v:0 -show_entries stream=duration -of default=noprint_wrappers=1:nokey=1 C:\xampp\htdocs\ytb-tool/files/CEr4jzNETgM.mp4 2>&1 
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/CEr4jzNETgM.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:01 -to 0-1:0-1:0-1 -c:v copy  "C:\xampp\htdocs\ytb-tool/files/CEr4jzNETgM_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/CEr4jzNETgM.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:01 -to 0-1:0-1:0-1 -c:v copy  "C:\xampp\htdocs\ytb-tool/files/CEr4jzNETgM_render.mp4" 2>&1
+C:\lib\ffprobe -v error -select_streams v:0 -show_entries stream=duration -of default=noprint_wrappers=1:nokey=1 C:\xampp\htdocs\ytb-tool/files/_cLahgOaCTY.mp4 2>&1 
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/_cLahgOaCTY.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:01 -to 0-1:0-1:0-1 -c:v copy  "C:\xampp\htdocs\ytb-tool/files/_cLahgOaCTY_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/_cLahgOaCTY.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:01 -to 0-1:0-1:0-1 -c:v copy  "C:\xampp\htdocs\ytb-tool/files/_cLahgOaCTY_render.mp4" 2>&1
+C:\lib\ffprobe -v error -select_streams v:0 -show_entries stream=duration -of default=noprint_wrappers=1:nokey=1 C:\xampp\htdocs\ytb-tool/files/18aINwFX1hc.mp4 2>&1 
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/18aINwFX1hc.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:01 -to 0-1:0-1:0-1 -c:v copy  "C:\xampp\htdocs\ytb-tool/files/18aINwFX1hc_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/18aINwFX1hc.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:01 -to 0-1:0-1:0-1 -c:v copy  "C:\xampp\htdocs\ytb-tool/files/18aINwFX1hc_render.mp4" 2>&1
+C:\lib\ffprobe -v error -select_streams v:0 -show_entries stream=duration -of default=noprint_wrappers=1:nokey=1 C:\xampp\htdocs\ytb-tool/files/CEr4jzNETgM.mp4 2>&1 
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/CEr4jzNETgM.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:01 -to 0-1:0-1:0-1 -c:v copy  "C:\xampp\htdocs\ytb-tool/files/CEr4jzNETgM_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/CEr4jzNETgM.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:01 -to 0-1:0-1:0-1 -c:v copy  "C:\xampp\htdocs\ytb-tool/files/CEr4jzNETgM_render.mp4" 2>&1
+C:\lib\ffprobe -v error -select_streams v:0 -show_entries stream=duration -of default=noprint_wrappers=1:nokey=1 C:\xampp\htdocs\ytb-tool/files/_cLahgOaCTY.mp4 2>&1 
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/_cLahgOaCTY.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:01 -to 0-1:0-1:0-1 -c:v copy  "C:\xampp\htdocs\ytb-tool/files/_cLahgOaCTY_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/_cLahgOaCTY.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:01 -to 0-1:0-1:0-1 -c:v copy  "C:\xampp\htdocs\ytb-tool/files/_cLahgOaCTY_render.mp4" 2>&1
+C:\lib\ffprobe -v error -select_streams v:0 -show_entries stream=duration -of default=noprint_wrappers=1:nokey=1 C:\xampp\htdocs\ytb-tool/files/CEr4jzNETgM.mp4 2>&1 
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/CEr4jzNETgM.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:01 -to 0-1:0-1:0-1 -c:v copy  "C:\xampp\htdocs\ytb-tool/files/CEr4jzNETgM_render.mp4" 2>&1
+Array
+C:\lib\ffmpeg -y -i "C:\xampp\htdocs\ytb-tool/files/CEr4jzNETgM.mp4"  -map_metadata 0 -preset superfast    -c:a copy  -ss 00:00:01 -to 0-1:0-1:0-1 -c:v copy  "C:\xampp\htdocs\ytb-tool/files/CEr4jzNETgM_render.mp4" 2>&1
